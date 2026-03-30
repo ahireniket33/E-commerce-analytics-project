@@ -1,0 +1,266 @@
+country,food_category,category_inflation_pct
+Argentina,Cereals & Grains,46.67745620715918
+Argentina,Dairy,60.87288597926896
+Argentina,Proteins,132.48368427533555
+Argentina,Sugar & Sweeteners,77.3989898989899
+Argentina,Vegetables,94.50789923142612
+BTN,Cereals & Grains,19.890678188007332
+BTN,Other,28.9859693877551
+BTN,Pulses & Legumes,27.6035773934594
+BTN,Vegetables,46.206710560577314
+Bangladesh,Cereals & Grains,35.861086765994735
+Bangladesh,Oils & Fats,77.01524123041406
+Bangladesh,Pulses & Legumes,49.61695211005007
+Burkina Faso,Cereals & Grains,78.36498761354252
+Burkina Faso,Other,59.58747135217724
+Burkina Faso,Pulses & Legumes,52.11449200618876
+Burundi,Cereals & Grains,63.39114285714286
+Burundi,Oils & Fats,92.20920000000001
+Burundi,Other,43.85660512056909
+Burundi,Proteins,81.53748571428572
+Burundi,Pulses & Legumes,80.12148606688031
+Burundi,Vegetables,52.714999999999996
+Chad,Cereals & Grains,11.263958333333335
+Chad,Other,13.230605738575983
+Chad,Pulses & Legumes,56.80644152595372
+Colombia,Cereals & Grains,19.826866808635884
+Colombia,Dairy,111.60606540084387
+Colombia,Other,14.63233333333333
+Colombia,Proteins,75.09974444444444
+Colombia,Pulses & Legumes,78.89533333333334
+Colombia,Sugar & Sweeteners,55.68467643467644
+Colombia,Vegetables,36.46401041666667
+Congo DRC,Cereals & Grains,66.75985714285714
+Congo DRC,Oils & Fats,65.88313586491986
+Congo DRC,Other,34.12695238095238
+Congo DRC,Proteins,17.010667580798607
+Congo DRC,Pulses & Legumes,58.10028571428571
+Congo DRC,Sugar & Sweeteners,74.85985164194032
+Congo DRC,Vegetables,21.869740259740265
+Dominican Republic,Cereals & Grains,3481.3618843683084
+Dominican Republic,Proteins,1161.17542997543
+Dominican Republic,Pulses & Legumes,1825.7767972053684
+Ecuador,Cereals & Grains,18.598382749326145
+Ecuador,Vegetables,42.57703081232493
+Egypt,Cereals & Grains,48.963188112124286
+Egypt,Dairy,116.75711352302726
+Egypt,Oils & Fats,57.665930489364186
+Egypt,Other,104.58932958932958
+Egypt,Proteins,56.64481911086197
+Egypt,Pulses & Legumes,82.08645658976786
+Egypt,Sugar & Sweeteners,70.49556439278066
+Egypt,Vegetables,12.887537993920974
+Eswatini,Cereals & Grains,24.60093896713615
+Eswatini,Oils & Fats,56.37144312641002
+Eswatini,Other,64.75046475046474
+Eswatini,Pulses & Legumes,27.133333333333336
+Eswatini,Sugar & Sweeteners,19.689144416293118
+Eswatini,Vegetables,24.44253953600825
+Ethiopia,Cereals & Grains,191.59060790892946
+Ethiopia,Dairy,27.012987012987015
+Ethiopia,Other,197.12987012987014
+Ethiopia,Sugar & Sweeteners,182.41758241758242
+Gambia,Cereals & Grains,22.916666666666668
+Gambia,Dairy,-47.77777777777777
+Gambia,Oils & Fats,28.703703703703706
+Gambia,Other,25.86833333333333
+Gambia,Proteins,-16.049382716049383
+Gambia,Pulses & Legumes,183.33333333333334
+Gambia,Sugar & Sweeteners,43.229166666666664
+Gambia,Vegetables,30.91851851851852
+Ghana,Cereals & Grains,-72.0193401592719
+Ghana,Other,-29.653710247349817
+Ghana,Proteins,78.56947608200457
+Ghana,Pulses & Legumes,364.8563968668407
+Ghana,Vegetables,57.558790593505044
+Guatemala,Cereals & Grains,3.4158893534898747
+Guatemala,Dairy,0.0
+Guatemala,Other,0.1437500000000007
+Guatemala,Proteins,186.27748561747788
+Guatemala,Pulses & Legumes,22.22937293729373
+Guatemala,Vegetables,1.0969101123595548
+Haiti,Cereals & Grains,86.36734693877551
+Haiti,Other,92.703007518797
+Haiti,Pulses & Legumes,94.60034013605443
+Haiti,Sugar & Sweeteners,125.06666666666666
+Haiti,Vegetables,99.11740558292283
+Iran,Cereals & Grains,50.672744651128596
+Iran,Other,114.96216050967766
+Iran,Proteins,193.0734722360682
+Iran,Pulses & Legumes,784.9490381743183
+Iran,Vegetables,175.42857142857142
+Kenya,Cereals & Grains,1232.6156531859178
+Kenya,Dairy,77.50324675324676
+Kenya,Other,-77.78314285714285
+Kenya,Pulses & Legumes,2214.9050568297826
+Kenya,Vegetables,-49.71297825488576
+Kyrgyzstan,Cereals & Grains,45.814481409001964
+Kyrgyzstan,Dairy,41.00476190476191
+Kyrgyzstan,Oils & Fats,22.98705368022639
+Kyrgyzstan,Other,36.82285714285714
+Kyrgyzstan,Proteins,14.815360259195169
+Kyrgyzstan,Pulses & Legumes,36.369723024878425
+Kyrgyzstan,Sugar & Sweeteners,52.77129743988534
+Kyrgyzstan,Vegetables,43.96508654891704
+Laos,Cereals & Grains,54.58265306122449
+Laos,Oils & Fats,110.20408
+Laos,Other,68.58930714285714
+Laos,Proteins,61.618801904761916
+Laos,Sugar & Sweeteners,83.00788571428572
+Lebanon,Dairy,10739.811904761906
+Lebanon,Oils & Fats,3792.9135646258505
+Lebanon,Other,254.5428612956811
+Lebanon,Proteins,1539.5729401418128
+Lebanon,Pulses & Legumes,3236.5459268991876
+Lesotho,Cereals & Grains,38.04262646107658
+Lesotho,Oils & Fats,57.97342192691029
+Lesotho,Pulses & Legumes,40.82571548067157
+Libya,Cereals & Grains,29.93197278911564
+Libya,Dairy,24.912891986062714
+Libya,Other,13.63636363636364
+Libya,Proteins,43.772893772893774
+Libya,Pulses & Legumes,30.857142857142858
+Libya,Sugar & Sweeteners,62.91208791208793
+Libya,Vegetables,22.142857142857146
+Madagascar,Cereals & Grains,10.007090909090909
+Madagascar,Sugar & Sweeteners,0.0
+Madagascar,Vegetables,72.01687804878048
+Malawi,Cereals & Grains,179.29616492262443
+Malawi,Other,-17.16742124064071
+Malawi,Pulses & Legumes,132.33537098634716
+Mali,Cereals & Grains,18.571428571428573
+Mali,Other,134.11927877947295
+Mali,Pulses & Legumes,23.194221508828253
+Mauritania,Cereals & Grains,14.779761904761907
+Mauritania,Dairy,11.856080722251724
+Mauritania,Other,32.19083333333333
+Mauritania,Proteins,539.1586538461538
+Mauritania,Pulses & Legumes,14.016326530612243
+Mauritania,Sugar & Sweeteners,47.27616484009486
+Mauritania,Vegetables,42.512908777969024
+Mozambique,Cereals & Grains,874.0918964076858
+Mozambique,Oils & Fats,32.90653753026634
+Mozambique,Other,-1.5387755102040832
+Mozambique,Pulses & Legumes,12.454185213908572
+Mozambique,Sugar & Sweeteners,18.021978021978022
+Mozambique,Vegetables,20.957142857142852
+Myanmar,Cereals & Grains,76.26732033164242
+Myanmar,Oils & Fats,161.34741674447557
+Myanmar,Other,-35.096128170894524
+Myanmar,Pulses & Legumes,91.90169961469341
+Nicaragua,Cereals & Grains,25101.175213675215
+Nicaragua,Dairy,32.76422764227643
+Nicaragua,Other,8.024691358024688
+Nicaragua,Proteins,1.6452074391988585
+Nicaragua,Pulses & Legumes,99810.84656084655
+Nicaragua,Sugar & Sweeteners,20.183486238532094
+Nicaragua,Vegetables,46.778711484593835
+Nigeria,Cereals & Grains,138.49601699415825
+Nigeria,Dairy,103.51785714285714
+Nigeria,Oils & Fats,154.4013459773631
+Nigeria,Other,136.07457142857143
+Nigeria,Proteins,127.84442176870748
+Nigeria,Pulses & Legumes,201.61885940146811
+Nigeria,Sugar & Sweeteners,185.7919594067135
+Nigeria,Vegetables,121.07142857142857
+Pakistan,Cereals & Grains,82.87332985815797
+Pakistan,Dairy,56.60718047488639
+Pakistan,Oils & Fats,103.66565349544074
+Pakistan,Other,65.85024937259762
+Pakistan,Proteins,100.11006583182771
+Pakistan,Pulses & Legumes,75.8485345687353
+Pakistan,Sugar & Sweeteners,61.69647904385046
+Palestine,Cereals & Grains,31.63482142857143
+Palestine,Dairy,81.10181311018131
+Palestine,Oils & Fats,1.5250452879470981
+Palestine,Other,21.05110336817654
+Palestine,Proteins,50.88211345336109
+Palestine,Pulses & Legumes,1.2857142857142851
+Palestine,Sugar & Sweeteners,54.98866213151926
+Palestine,Vegetables,9.918478260869561
+Panama,Cereals & Grains,257.967032967033
+Panama,Pulses & Legumes,16.067146282973635
+Philippines,Cereals & Grains,21.06718888799162
+Philippines,Other,56.416329572067276
+Philippines,Proteins,25.659567256087232
+Philippines,Pulses & Legumes,11.301298701298702
+Philippines,Vegetables,84.08086253369272
+Rwanda,Cereals & Grains,33.353809523809524
+Rwanda,Oils & Fats,52.662
+Rwanda,Other,46.56063492063492
+Rwanda,Proteins,45.17857142857143
+Rwanda,Pulses & Legumes,57.27775974025974
+Rwanda,Sugar & Sweeteners,43.698015873015876
+Rwanda,Vegetables,57.142857142857146
+Senegal,Cereals & Grains,26.719576719576718
+Senegal,Other,50.146567717996284
+Sierra Leone,Cereals & Grains,127.97465437788017
+Sierra Leone,Oils & Fats,96.19054135338345
+Sierra Leone,Other,-20.499889162561576
+Sierra Leone,Proteins,125.15042261904762
+Sierra Leone,Pulses & Legumes,155.82771428571428
+Sierra Leone,Vegetables,23.38307142857143
+South Sudan,Cereals & Grains,617.5895691609977
+South Sudan,Other,495.35714285714283
+South Sudan,Pulses & Legumes,796.3633136094675
+South Sudan,Sugar & Sweeteners,746.8654761904761
+South Sudan,Vegetables,680.4124812030076
+Sri Lanka,Cereals & Grains,81.91537155345054
+Sudan,Cereals & Grains,-50.71863080371504
+Sudan,Dairy,2024.91341991342
+Sudan,Other,1717.1900550022297
+Sudan,Proteins,1665.966386554622
+Sudan,Pulses & Legumes,2108.2273747195213
+Sudan,Sugar & Sweeteners,2822.5
+Sudan,Vegetables,2676.7346938775513
+Syria,Cereals & Grains,1352.9750000000001
+Syria,Dairy,1861.5911904761904
+Syria,Oils & Fats,1770.015824175824
+Syria,Other,861.5341055341056
+Syria,Proteins,1394.5249828220706
+Syria,Pulses & Legumes,1523.2403571428572
+Syria,Sugar & Sweeteners,1829.9714285714288
+Syria,Vegetables,952.8157142857142
+Tajikistan,Cereals & Grains,33.94798136645962
+Tajikistan,Dairy,38.69321922317314
+Tajikistan,Oils & Fats,31.72203765227021
+Tajikistan,Other,15.558248750189367
+Tajikistan,Proteins,29.2439965793792
+Tajikistan,Pulses & Legumes,35.47619047619048
+Tajikistan,Sugar & Sweeteners,46.39705882352941
+Tajikistan,Vegetables,46.38392857142856
+Tanzania,Cereals & Grains,5197.670257747699
+Tanzania,Oils & Fats,23.328000000000003
+Tanzania,Other,9173.533699785252
+Tanzania,Proteins,9.747857142857141
+Tanzania,Pulses & Legumes,5911.632857142858
+Tanzania,Sugar & Sweeteners,6.237499999999999
+Tanzania,Vegetables,3670.465955177545
+Turkey,Cereals & Grains,257.25417439703153
+Turkey,Dairy,112.8605288269154
+Turkey,Oils & Fats,130.26435246995996
+Turkey,Other,253.74466950959484
+Turkey,Proteins,217.69975786924942
+Turkey,Pulses & Legumes,200.69904067821815
+Turkey,Sugar & Sweeteners,151.31022823330517
+Turkey,Vegetables,195.57640750670242
+Ukraine,Cereals & Grains,55.96983661499792
+Ukraine,Dairy,34.10500206696981
+Ukraine,Oils & Fats,64.9383965655649
+Ukraine,Other,49.871128575653856
+Ukraine,Proteins,40.53952566201542
+Ukraine,Sugar & Sweeteners,89.65903878497527
+Ukraine,Vegetables,30.789742425961652
+Yemen,Cereals & Grains,168.6857142857143
+Yemen,Other,578.0
+Yemen,Proteins,100.49642857142858
+Yemen,Pulses & Legumes,155.27950310559007
+Yemen,Sugar & Sweeteners,203.88904761904763
+Yemen,Vegetables,100.06791836734693
+Zambia,Cereals & Grains,2210.7954545454545
+Zambia,Other,16.22680598090434
+Zambia,Pulses & Legumes,84.74162310395062
+Zimbabwe,Cereals & Grains,4617.037815126051
+Zimbabwe,Other,5546.371220020855
+Zimbabwe,Proteins,4638.014977049476
+Zimbabwe,Sugar & Sweeteners,12901.792725769788

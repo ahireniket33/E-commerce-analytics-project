@@ -1,0 +1,16 @@
+# Exclude large raw data files
+Raw_Data/WFP/*.csv
+Raw_Data/IMF/*.csv
+Raw_Data/WorldBank/*.csv
+
+# Exclude submission folder
+DMV_SUBMISSION/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+DMV SUBMISSION/
